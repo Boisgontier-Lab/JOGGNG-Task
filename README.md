@@ -10,3 +10,5 @@ The GGIR package was used to extrapolate wear time and acceleration used for ide
 The script ggirStartKP_260407.R was used to run this analysis with parameters set specifically for older adults who wore the accelerometers only 10h/day for minimum 4days/week.
 The .gt3x were too large to upload onto github. 
 For acccess to .gt3x files, please email kayne.park@uottawa.ca
+
+outmeasures_J0XX.docx is a blank copy of the self-report questionnaires participants filled out in the JOGGNG Study.
