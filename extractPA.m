@@ -1,1 +1,0 @@
-fullData = readtable('JOGGNGStudyPartInfo_250806.xlsx');
